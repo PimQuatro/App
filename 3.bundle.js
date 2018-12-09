@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{43:function(t,e,n){"use strict";n.r(e),n.d(e,"ClienteServices",function(){return c});var o=n(3),s=n(4);class c{constructor(){this.token=localStorage.getItem("token")}async create(t){return await o.a.post(`${s.a}/clientes`,this.token,t)}}}}]);

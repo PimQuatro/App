@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{46:function(n,s,t){"use strict";t.r(s),t.d(s,"Atendente",function(){return e});class e{constructor(n,s,t,e,i){this.nome=`${n} ${s}`,this.cpf=t,this.email=e,this.senha=i}}}}]);

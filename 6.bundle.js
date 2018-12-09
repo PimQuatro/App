@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{231:function(s,t,n){"use strict";n.r(t),n.d(t,"Chamado",function(){return i});class i{constructor(s,t,n,i){this.assunto=n,this.idCliente=s,this.idAtendente=t,this.descricaoProblema=i}}}}]);

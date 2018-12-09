@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{230:function(t,a,o){"use strict";o.r(a),o.d(a,"ChamadoServices",function(){return s});var e=o(3),n=o(4);class s{constructor(){this.token=localStorage.getItem("token")}async create(t){return await e.a.post(`${n.a}/chamados`,this.token,t)}}}}]);
